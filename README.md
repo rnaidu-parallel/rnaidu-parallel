@@ -9,10 +9,10 @@ I build AI agents for a living. At this point they do most of my typing, and I h
 
 That's my real token usage across Claude Code, Codex, Cursor and friends, straight off my
 machines. Made with [ai-usage-heatmap](https://github.com/rnaidu-parallel/ai-usage-heatmap),
-which is open source, so you can put one on your profile too.
+which is open source, so you can put one on your profile too:
 
-## Elsewhere
+```sh
+npx ai-usage-heatmap render
+```
 
-- 📝 Blog: [blog.neuromancer.in](https://blog.neuromancer.in)
-- 💼 LinkedIn: [rahul-naidu-siriporam](https://www.linkedin.com/in/rahul-naidu-siriporam-15472116b)
-- 🐦 X: [@rahulwlw](https://x.com/rahulwlw)
+Also on [npm](https://www.npmjs.com/package/ai-usage-heatmap).
