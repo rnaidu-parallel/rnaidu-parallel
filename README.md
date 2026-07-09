@@ -4,7 +4,7 @@ I build AI agents for a living. At this point they do most of my typing, and I h
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ai-usage-dark.svg">
-  <img src="assets/ai-usage-light.svg" alt="AI token usage heatmap">
+  <img src="assets/ai-usage-light.svg" alt="Rahul's AI token usage heatmap">
 </picture>
 
 That's my real token usage across Claude Code, Codex, Cursor and friends, straight off my
