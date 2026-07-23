@@ -20,7 +20,7 @@
   <g>
     <title>opencode</title>
     <path d="M22 24H2V0h20zM17 4.8H7v14.4h10z" fill="#57606a" transform="translate(666.6 3) scale(0.583)"/>
-    <text x="684.6" y="16" font-size="10" fill="#57606a">60.5M</text>
+    <text x="684.6" y="16" font-size="10" fill="#57606a">62.2M</text>
   </g>
   <g>
     <title>openclaw</title>
@@ -29,15 +29,15 @@
   </g>
   <g>
     <text x="30" y="38" font-size="8.5" letter-spacing="0.08em" fill="#57606a">ALL TIME</text>
-    <text x="30" y="57" font-size="17" font-weight="700" fill="#1f2328">6B</text>
+    <text x="30" y="57" font-size="17" font-weight="700" fill="#1f2328">6.1B</text>
   </g>
   <g>
     <text x="177.8" y="38" font-size="8.5" letter-spacing="0.08em" fill="#57606a">LAST 30 DAYS</text>
-    <text x="177.8" y="57" font-size="17" font-weight="700" fill="#1f2328">4.1B</text>
+    <text x="177.8" y="57" font-size="17" font-weight="700" fill="#1f2328">4.2B</text>
   </g>
   <g>
     <text x="325.6" y="38" font-size="8.5" letter-spacing="0.08em" fill="#57606a">LAST 7 DAYS</text>
-    <text x="325.6" y="57" font-size="17" font-weight="700" fill="#1f2328">730.9M</text>
+    <text x="325.6" y="57" font-size="17" font-weight="700" fill="#1f2328">562.5M</text>
   </g>
   <g>
     <text x="473.4" y="38" font-size="8.5" letter-spacing="0.08em" fill="#57606a">TODAY</text>
@@ -45,7 +45,7 @@
   </g>
   <g>
     <text x="621.2" y="38" font-size="8.5" letter-spacing="0.08em" fill="#57606a">ACTIVE DAYS</text>
-    <text x="621.2" y="57" font-size="17" font-weight="700" fill="#1f2328">155</text>
+    <text x="621.2" y="57" font-size="17" font-weight="700" fill="#1f2328">156</text>
   </g>
   <text x="44" y="86">Aug</text>
   <text x="114" y="86">Sep</text>
@@ -239,7 +239,7 @@
   <rect x="366" y="178" width="11" height="11" rx="2" fill="#ebedf0" data-date="2026-01-10" data-level="0"/>
   <rect x="380" y="94" width="11" height="11" rx="2" fill="#ebedf0" data-date="2026-01-11" data-level="0"/>
   <rect x="380" y="108" width="11" height="11" rx="2" fill="#ebedf0" data-date="2026-01-12" data-level="0"/>
-  <rect x="380" y="122" width="11" height="11" rx="2" fill="#216e39" data-date="2026-01-13" data-level="4"/>
+  <rect x="380" y="122" width="11" height="11" rx="2" fill="#30a14e" data-date="2026-01-13" data-level="3"/>
   <rect x="380" y="136" width="11" height="11" rx="2" fill="#ebedf0" data-date="2026-01-14" data-level="0"/>
   <rect x="380" y="150" width="11" height="11" rx="2" fill="#216e39" data-date="2026-01-15" data-level="4"/>
   <rect x="380" y="164" width="11" height="11" rx="2" fill="#40c463" data-date="2026-01-16" data-level="2"/>
@@ -429,8 +429,9 @@
   <rect x="758" y="94" width="11" height="11" rx="2" fill="#ebedf0" data-date="2026-07-19" data-level="0"/>
   <rect x="758" y="108" width="11" height="11" rx="2" fill="#216e39" data-date="2026-07-20" data-level="4"/>
   <rect x="758" y="122" width="11" height="11" rx="2" fill="#216e39" data-date="2026-07-21" data-level="4"/>
-  <rect x="758" y="136" width="11" height="11" rx="2" fill="#ebedf0" data-date="2026-07-22" data-level="0"/>
-  <text x="30" y="209">AI tokens incl. cache · updated 2026-07-22</text>
+  <rect x="758" y="136" width="11" height="11" rx="2" fill="#216e39" data-date="2026-07-22" data-level="4"/>
+  <rect x="758" y="150" width="11" height="11" rx="2" fill="#ebedf0" data-date="2026-07-23" data-level="0"/>
+  <text x="30" y="209">AI tokens incl. cache · updated 2026-07-23</text>
   <text x="646" y="209">Less</text>
   <rect x="672" y="200" width="11" height="11" rx="2" fill="#ebedf0"/>
   <rect x="686" y="200" width="11" height="11" rx="2" fill="#9be9a8"/>
